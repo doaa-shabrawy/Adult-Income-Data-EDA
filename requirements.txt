@@ -3,5 +3,5 @@ datasist==1.5.3
 numpy>=1.22,<2.0
 pandas==1.3.5
 plotly==5.18.0
-scikit_learn==1.2.0
+scikit-learn>=1.3.0
 streamlit==1.23.1
