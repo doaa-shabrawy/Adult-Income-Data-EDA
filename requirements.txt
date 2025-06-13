@@ -1,8 +1,8 @@
-python==3.7.6
-category_encoders==2.6.4
+python==3.10.16
 datasist==1.5.3
-numpy>=1.22,<2.0
-pandas==1.3.5
-plotly==5.18.0
-scikit-learn>=1.3.0
-streamlit==1.23.1
+numpy==1.26.4
+pandas==2.2.3
+plotly==5.21.0
+category_encoders==2.6.3
+streamlit==1.44.1
+scikit-learn==1.4.2
